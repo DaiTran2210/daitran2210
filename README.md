@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ ## Skills:
+ - SQL
+ - PowerBI
+ - Looker Studio
+ - Python
+
+## Projects:
+1.  E-commerce https://github.com/DaiTran2210/E-commerce-
+2.  
