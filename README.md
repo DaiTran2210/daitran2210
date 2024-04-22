@@ -14,30 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- ### Skills:
+ ## Skills:
  - SQL
  - PowerBI
  - Looker Studio
  - Python
 
-### Projects:
+## Projects:
 1.  E-commerce https://github.com/DaiTran2210/E-commerce-
 2.  
 
 
-### Education
+## Education
 - San Jose State University San Jose, CA - 
 BS in Information Science and Data Analytics - GPA 3.737 - Aug 2022 – May 2024
 - Evergreen Valley College San Jose, CA -
 AS in Engineering - GPA 3.5 - Aug 2016 – May 2019
 
-### Awards and Honors
+## Awards and Honors
 - President’s Scholar: Fall 2023
 - Dean’s Scholar: Fall 2022, Spring 2023
 
-### Experiences
-- Inventory Clerk - Aug 2022 – Present
-  - KLA Corporation - Milpitas, CA
-     - Data entry from multiple sources on a daily basis into company’s database via Microsoft Access.
-     - Receiving and organizing mechanical/ electrical parts, audit kits, miscellaneous projects as assigned.
-     - Using Outlook and Teams for daily communication with colleagues and engineers.
+## Experiences
+**Inventory Clerk @ KLA Corporation - Milpitas, CA (Aug 2022 – Present)**
+  - Data entry from multiple sources on a daily basis into company’s database via Microsoft Access.
+  - Receiving and organizing mechanical/ electrical parts, audit kits, miscellaneous projects as assigned.
+  - Using Outlook and Teams for daily communication with colleagues and engineers.
