@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 ## Projects:
 1.  E-commerce https://github.com/DaiTran2210/E-commerce-
-2.  
-
-
+2.  Data Wrangling https://github.com/DaiTran2210/Data-Wrangling
+3.  RFM Analysis https://github.com/DaiTran2210/RFM-Analysis
+   
 ## Education
 - San Jose State University San Jose, CA - 
 BS in Information Science and Data Analytics - GPA 3.737 - Aug 2022 – May 2024
