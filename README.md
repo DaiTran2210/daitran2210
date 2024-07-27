@@ -28,16 +28,18 @@ Here are some ideas to get you started:
    
 ## Education
 - San Jose State University San Jose, CA - 
-BS in Information Science and Data Analytics - GPA 3.737 - Aug 2022 – May 2024
-- Evergreen Valley College San Jose, CA -
-AS in Engineering - GPA 3.5 - Aug 2016 – May 2019
+BS in Information Science and Data Analytics - GPA 3.5 - Aug 2020 – May 2024
+
 
 ## Awards and Honors
-- President’s Scholar: Fall 2023
-- Dean’s Scholar: Fall 2022, Spring 2023
+- President’s Scholar: Spring 2024, Fall 2023
+- Dean’s Scholar: Spring 2023, Fall 2022
 
 ## Experiences
 **Inventory Clerk @ KLA Corporation - Milpitas, CA (Aug 2022 – Present)**
-  - Data entry from multiple sources on a daily basis into company’s database via Microsoft Access.
-  - Receiving and organizing mechanical/ electrical parts, audit kits, miscellaneous projects as assigned.
-  - Using Outlook and Teams for daily communication with colleagues and engineers.
+  - Performed daily data entry for test equipment using Microsoft Access, ensuring accuracy and completeness.
+  - Analyzed test equipment data to identify potential issues and discrepancies.
+  - Maintained a well-organized inventory system for test equipment, facilitating efficient retrieval and deployment.
+  - Worked independently to prioritize tasks and manage time effectively.
+  - Collaborate with teams from different buildings to ensure that all materials are tracked. Make offsite requests for large materials that cannot be stored in office space and keep track of them.
+  - Report to manager at the end of the day to keep everything on track and prevent anything from getting lost.
