@@ -22,10 +22,9 @@ Here are some ideas to get you started:
 
 ## Projects:
 1.  [SQL] E-commerce: https://github.com/DaiTran2210/E-commerce-
-2.  [Power BI] User Churn Analysis: https://github.com/DaiTran2210/User-Churn-Analysis
-3.  [Power BI] Global Superstore Analysis: https://github.com/DaiTran2210/Global-Superstore-Analysis-Power-BI-
-4.  [Python] Data Wrangling: https://github.com/DaiTran2210/Data-Wrangling
-5.  [Python] RFM Analysis: https://github.com/DaiTran2210/RFM-Analysis
+2.  [Power BI] Global Superstore Analysis: https://github.com/DaiTran2210/Global-Superstore-Analysis-Power-BI-
+3.  [Python] Data Wrangling: https://github.com/DaiTran2210/Data-Wrangling
+4.  [Python] RFM Analysis: https://github.com/DaiTran2210/RFM-Analysis
    
 ## Education
 - San Jose State University San Jose, CA - 
