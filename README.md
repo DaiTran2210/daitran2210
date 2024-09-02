@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 3.  [Python] Data Wrangling: https://github.com/DaiTran2210/Data-Wrangling
 4.  [Python] RFM Analysis: https://github.com/DaiTran2210/RFM-Analysis
 5.  [Machine Learning, Python] Fraudulent Transactions Analysis : https://github.com/DaiTran2210/Fraudulent-Transactions-Analysis
+6.  [Python] Cohort Analysis final: https://github.com/DaiTran2210/Cohort-Analysis
    
 ## Education
 - San Jose State University San Jose, CA - 
