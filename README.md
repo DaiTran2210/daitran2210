@@ -22,11 +22,12 @@ Here are some ideas to get you started:
 
 ## Projects:
 1.  [SQL] E-commerce: https://github.com/DaiTran2210/E-commerce-
-2.  [Power BI] Global Superstore Analysis: https://github.com/DaiTran2210/Global-Superstore-Analysis-Power-BI-
-3.  [Python] Data Wrangling: https://github.com/DaiTran2210/Data-Wrangling
-4.  [Python] RFM Analysis: https://github.com/DaiTran2210/RFM-Analysis
-5.  [Machine Learning, Python] Fraudulent Transactions Analysis : https://github.com/DaiTran2210/Fraudulent-Transactions-Analysis
-6.  [Python] Cohort Analysis final: https://github.com/DaiTran2210/Cohort-Analysis
+2.  [Power BI] Customer Churn Analysis : https://github.com/DaiTran2210/Customer-Churn-Analysis
+3.  [Power BI] Global Superstore Analysis: https://github.com/DaiTran2210/Global-Superstore-Analysis-Power-BI-
+4.  [Python] Data Wrangling: https://github.com/DaiTran2210/Data-Wrangling
+5.  [Python] RFM Analysis: https://github.com/DaiTran2210/RFM-Analysis
+6.  [Machine Learning, Python] Fraudulent Transactions Analysis : https://github.com/DaiTran2210/Fraudulent-Transactions-Analysis
+7.  [Python] Cohort Analysis final: https://github.com/DaiTran2210/Cohort-Analysis
    
 ## Education
 - San Jose State University San Jose, CA - 
